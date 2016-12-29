@@ -9,7 +9,7 @@ from statistics import mean as m
 
 print(m(List))
 
-#same answer, but solved in a shorter amount of code
+#same answer, but solved in a shorter amount of code.
 
 #you can also do this
 
